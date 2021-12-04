@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blueberry)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkharma&show_icons=true&theme=blueberry)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkharma&layout=compact&theme=blueberry)]
 
 <!--
