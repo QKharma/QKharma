@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qkharma&show_icons=true&theme=blueberry&count_private=true)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkharma&layout=compact&theme=blueberry&count_private=true)
 
-####AoC 2021
+#### AoC 2021
 ![](https://img.shields.io/badge/stars%20⭐-8-yellow)
 ![](https://img.shields.io/badge/days%20completed-16-red)
 <!--
