@@ -2,8 +2,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkharma&layout=compact&theme=blueberry&count_private=true)
 
 #### AoC 2021
-![](https://img.shields.io/badge/stars%20⭐-29-yellow)
-![](https://img.shields.io/badge/days%20completed-14-red)
+![](https://img.shields.io/badge/stars%20⭐-31-yellow)
+![](https://img.shields.io/badge/days%20completed-15-red)
 <!--
 **QKharma/QKharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
